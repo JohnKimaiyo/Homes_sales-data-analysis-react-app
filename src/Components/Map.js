@@ -1,6 +1,6 @@
-import React from 'react';
+import React from 'react'
 
-function Table() {
+export default function Map() {
   return (
     <div className="App">
       <header className="App-header">
@@ -18,7 +18,5 @@ function Table() {
         </a>
       </header>
     </div>
-  );
+  )
 }
-
-export default Table;
